@@ -93,3 +93,4 @@ if __name__ == "__main__":
     # Calculate the elapsed time
     elapsed_time = end_time - start_time
     print(f"Time taken: {elapsed_time:.2f} seconds")
+    print('first 2')
